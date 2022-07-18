@@ -1,4 +1,4 @@
-package com.cmcc.paas.controller;
+package com.bee.controller;
 
 import org.springframework.util.AntPathMatcher;
 import org.springframework.web.bind.annotation.GetMapping;

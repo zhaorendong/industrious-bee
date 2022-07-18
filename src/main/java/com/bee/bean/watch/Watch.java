@@ -1,4 +1,4 @@
-package com.cmcc.paas.bean.watch;
+package com.bee.bean.watch;
 
 import lombok.Data;
 

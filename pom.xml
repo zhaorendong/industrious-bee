@@ -8,8 +8,8 @@
         <version>2.3.1.RELEASE</version>
         <relativePath/>
     </parent>
-    <groupId>com.cmcc.paas</groupId>
-    <artifactId>zrd-test</artifactId>
+    <groupId>com.bee</groupId>
+    <artifactId>industrious</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <properties>
